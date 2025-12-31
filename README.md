@@ -2,7 +2,7 @@
   Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sreejan Narapareddy
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&color=0E75B6&center=true&vCenter=true&width=600&duration=2200&lines=B.Tech+CSE+(Cyber+Security)+Student;Prompt+Engineer+%7C+AI+Enthusiast;Passionate+about+Python,+C,+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&color=0E75B6&center=true&vCenter=true&width=600&duration=2200&lines=B.Tech+CSE+(Cyber+Security)+Student;LLM+Analyst+%7C+AI+Enthusiast;Passionate+about+Python,+C,+SQL" alt="Typing SVG" />
 </h3>
 
 <p align="center">
