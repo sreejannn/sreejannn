@@ -14,29 +14,30 @@
 ### About Me
 - **B.Tech CSE (Cyber Security)** @ Central University of Jammu  
 - Interests: **Cybersecurity, AI/ML, Prompt Engineering**  
-- Skilled in **Python, C, C++, SQL, ML frameworks, Cybersecurity tools**  
+- Skilled in **Python, C, SQL, ML frameworks, Cybersecurity tools**  
 - Reach me at **sreejan06@zohomail.in**  
 
 ---
 
 ### Work Experience
-- **Cybersecurity Intern – CDAC Noida (2025)**  
+- **Cybersecurity Intern (Remote) – CDAC Noida (2025)**  
   Malware behavior analysis & Windows Registry investigations using Wireshark, Process Monitor.  
 
-- **Prompt Engineer – Outlier AI (2024–25)**  
-  Optimized 100+ AI responses weekly, refined prompts for better contextual accuracy.  
+- **LLM Analyst (Freelance) – Outlier AI (2024–25)**  
+  Optimized 200+ AI responses monthly, refined prompts for better contextual accuracy.  
 
-- **AI Intern – AICTE (2025)**  
+- **AI Intern (Remote) – AICTE (2025)**  
   Built a **Streamlit Fitness Tracker** (85% accuracy) with ML models.  
 
-- **Project Intern – IIT Kanpur (2023)**  
+- **Project Intern (Remote) – IIT Kanpur (2023)**  
   HR analytics on 55k+ records using **Logistic Regression, Random Forest, Python visualization**.  
 
 ---
 
 ### Projects
-- **Malware Behaviour Analysis – CDAC**  
-- **AI/ML Fitness Tracker – AICTE**  
+- **Cryptlock - Secure USB Data Locker**
+- **Malware Behaviour Analysis and Windows Registry Investigation – CDAC**  
+- **AI/ML Fitness Tracker with Calorie Prediction – AICTE**  
 - **HR Analytics – IIT Kanpur**  
 
 ---
