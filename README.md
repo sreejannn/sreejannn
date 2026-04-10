@@ -15,7 +15,7 @@
 - **B.Tech CSE (Cyber Security)** @ Central University of Jammu  
 - Interests: **Cybersecurity, AI/ML, Prompt Engineering**  
 - Skilled in **Python, C, SQL, ML frameworks, Cybersecurity tools**  
-- Reach me at **sreejan06@zohomail.in**  
+- Reach me at **sreejan.narapareddy@gmail.com**  
 
 ---
 
