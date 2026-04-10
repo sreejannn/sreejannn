@@ -23,7 +23,7 @@
 - **Cybersecurity Intern (Remote) – CDAC Noida (2025)**  
   Malware behavior analysis & Windows Registry investigations using Wireshark, Process Monitor.  
 
-- **LLM Analyst (Freelance) – Outlier AI (2024–25)**  
+- **Prompt Engineer (Freelance) – Outlier AI (2024–25)**  
   Optimized 200+ AI responses monthly, refined prompts for better contextual accuracy.  
 
 - **AI Intern (Remote) – AICTE (2025)**  
