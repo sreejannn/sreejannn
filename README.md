@@ -20,6 +20,9 @@
 ---
 
 ### Work Experience
+- **AI Engineer Intern (On-site) – Serole Technologies, Hyderabad (Mar 2026 – Present)**  
+  Working on AI/ML engineering tasks in a hands-on on-site role at Hyderabad.
+
 - **Cybersecurity Intern (Remote) – CDAC Noida (2025)**  
   Malware behavior analysis & Windows Registry investigations using Wireshark, Process Monitor.  
 
