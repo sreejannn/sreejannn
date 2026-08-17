@@ -20,19 +20,19 @@
 ---
 
 ### Work Experience
-- **AI Engineer Intern (Remote) – Serole Technologies, Hyderabad (Mar 2026 – Present)**  
+- **Intern – Serole Technologies, Hyderabad (Mar 2026 – Present)**  
   Working on AI/ML engineering tasks in a hands-on on-site role at Hyderabad.
 
-- **Cybersecurity Intern (Remote) – CDAC Noida (2025)**  
+- **Intern (Remote) – CDAC Noida (2025)**  
   Malware behavior analysis & Windows Registry investigations using Wireshark, Process Monitor.  
 
 - **Prompt Engineer (Freelance) – Outlier AI (2024–25)**  
   Optimized 200+ AI responses monthly, refined prompts for better contextual accuracy.  
 
-- **AI Intern (Remote) – AICTE (2025)**  
+- **Intern (Remote) – AICTE (2025)**  
   Built a **Streamlit Fitness Tracker** (85% accuracy) with ML models.  
 
-- **Project Intern (Remote) – IIT Kanpur (2023)**  
+- **Intern (Remote) – IIT Kanpur (2023)**  
   HR analytics on 55k+ records using **Logistic Regression, Random Forest, Python visualization**.  
 
 ---
